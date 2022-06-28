@@ -200,7 +200,7 @@ predict(fit, newdata, interval = "confidence", level = 0.97)
 # Now try adding another term - build a linear model for longevity using type and thorax length
 
 
-# Plot the confidence interval for each line - and compare to your earlier simple model - how does the thorax length line change?
+# Calculate the confidence interval for the thorax line - and compare to your earlier simple model - how does the thorax length line change?
 
 
 
